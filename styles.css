@@ -10,9 +10,5 @@ body {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-}
-
-canvas {
-  height: 90vh;
-  width: 90vw;
+  background-color: rgb(20, 20, 20);
 }
